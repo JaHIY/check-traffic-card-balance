@@ -1,4 +1,3 @@
-# check-traffic-card-balance
 # 检查上海交通卡余额的 perl 脚本
 
 ``` bash
